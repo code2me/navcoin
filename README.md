@@ -1,7 +1,6 @@
 # navcoin
 
-navcoin is a Cryptocurrency made by [Navneet].
-(https://github.com/code2me)
+navcoin is a Cryptocurrency made by [Navneet](https://github.com/code2me).
 
 
 ## Built With
