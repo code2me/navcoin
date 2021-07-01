@@ -15,7 +15,7 @@ navcoin is a Cryptocurrency made by [Navneet].
 
 ## Author
 
-**Rohit Jain**
+**Navneet Bahuguna**
 
 - [Profile](https://github.com/code2me "Rohit jain")
 - [Email](mailto:navneetbahuguna@outlook.com?subject=Hi% "Hi!")
